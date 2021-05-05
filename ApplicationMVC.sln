@@ -2,6 +2,10 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIOApplicationMVC", "DIOApplicationMVC\DIOApplicationMVC.csproj", "{2ED37E20-0A31-41BD-B53C-C7C4F77C894C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioAPI", "DioAPI\DioAPI.csproj", "{3ED06237-87B6-4E3A-AC8D-8221D26A3BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DioTest", "DioTest\DioTest.csproj", "{11E2B912-4701-47B4-A774-C75553CF9977}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +16,13 @@ Global
 		{2ED37E20-0A31-41BD-B53C-C7C4F77C894C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2ED37E20-0A31-41BD-B53C-C7C4F77C894C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2ED37E20-0A31-41BD-B53C-C7C4F77C894C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ED06237-87B6-4E3A-AC8D-8221D26A3BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ED06237-87B6-4E3A-AC8D-8221D26A3BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ED06237-87B6-4E3A-AC8D-8221D26A3BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ED06237-87B6-4E3A-AC8D-8221D26A3BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E2B912-4701-47B4-A774-C75553CF9977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E2B912-4701-47B4-A774-C75553CF9977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E2B912-4701-47B4-A774-C75553CF9977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E2B912-4701-47B4-A774-C75553CF9977}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
