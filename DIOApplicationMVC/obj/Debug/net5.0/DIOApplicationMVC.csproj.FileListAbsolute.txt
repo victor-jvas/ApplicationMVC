@@ -171,3 +171,8 @@ D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Ca
 D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Category\Details.cshtml.g.cs
 D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Category\Edit.cshtml.g.cs
 D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
+D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
+D:\Dev\GitRepos\ApplicationMVC\DIOApplicationMVC\obj\Debug\net5.0\Razor\Views\Product\Index.cshtml.g.cs
